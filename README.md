@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋 👋Hello👋</h1>
 <h3 align="center">I'm Juan Manuel, currently learning React and open to opportunities to expand my knowledge and collaborate on exciting projects</h3>
 
 <h3 align="left">Connect with me:</h3>
